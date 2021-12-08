@@ -18,24 +18,24 @@ Team Happiness: The total happiness level of a team.
 Class size: Class size is the number of students in a class, before students are divided into teams.
 
 # Important Functions
-calc() : function that handles calculating the happiness of team as well as individuals
-mix() : function that deals with mixing the teams to find the highest happiness value
-get() : pulls names from the array and also determines team size and finds the placeholder positions
-getWeight() : function to splice array and get names and weights and store the in seperate arrays with pholders accounted for
-showTeams(): function that shows the output of teams
+* calc() : function that handles calculating the happiness of team as well as individuals
+* mix() : function that deals with mixing the teams to find the highest happiness value
+* get() : pulls names from the array and also determines team size and finds the placeholder positions
+* getWeight() : function to splice array and get names and weights and store the in seperate arrays with pholders accounted for
+* showTeams(): function that shows the output of teams
 
 # Test Functions
-calctest
-goodNames
-Mix test
-Pholder Test
+* calctest
+* goodNames
+* Mix test
+* Pholder Test
 
 
 # Master Story
--get a plan mapped out of what might go into the system
--figure out how to put students into different arrays
--think about everyones preferences
--write test functions
+* get a plan mapped out of what might go into the system
+* figure out how to put students into different arrays
+* think about everyones preferences
+* write test functions
 
 
 # Inception Deck
