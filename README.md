@@ -10,9 +10,9 @@ The Solution
 
 Glossary
 # General terms
-# Person: The name of a person that corresponds with their preference of working with another person in the file.
-# Team: A team has at least two people and a maximum of half the class size.
-# Happiness: Happiness is the level of satisfaction or disatisfaction that a student has with the other students in the class. It is specified in the file that is given to the sorter.
+-Person: The name of a person that corresponds with their preference of working with another person in the file.
+-Team: A team has at least two people and a maximum of half the class size.
+-Happiness: Happiness is the level of satisfaction or disatisfaction that a student has with the other students in the class. It is specified in the file that is given to the sorter.
 # Individual Happiness: The happiness rate of each student in a team.
 # Team Happiness: The total happiness level of a team.
 # Class size: Class size is the number of students in a class, before students are divided into teams.
